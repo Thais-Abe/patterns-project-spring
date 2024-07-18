@@ -12,5 +12,6 @@ Este é um projeto de exemplo para uma aplicação de cadastro de clientes utili
 - H2 Database: Banco de dados em memória para desenvolvimento e testes.
 
 Requisitos:
-Java 11 ou superior
-Maven
+
+- Java 11 ou superior
+- Maven
