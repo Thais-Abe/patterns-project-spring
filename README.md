@@ -7,7 +7,7 @@ Este é um projeto de exemplo para uma aplicação de cadastro de clientes utili
 
 - Lombok: Biblioteca que ajuda a reduzir a verbosidade do código Java.
 
-- JPA Repository: Abordagem para interagir com bancos de dados de maneira simplificada.
+- Spring Data JPA: Abordagem para interagir com bancos de dados de maneira simplificada.
 
 - H2 Database: Banco de dados em memória para desenvolvimento e testes.
 
